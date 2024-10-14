@@ -92,25 +92,23 @@ Explicación de conceptos básicos en el Análisis y Diseño de Algoritmos
 
 ## Resultados de aprendizaje 📊📈
 
-## Resultados de aprendizaje 📊📈
+Al finalizar este curso, los estudiantes serán capaces de:
 
-Los estudiantes al finalizar el curso serán capaces de:
+1. **Aplicar análisis de algoritmos**: Desarrollar y evaluar algoritmos eficientes que resuelvan problemas computacionales reales, considerando tanto la complejidad temporal como espacial.
 
-- **RA1:** Analizar y describir la **complejidad temporal y espacial** de algoritmos aplicando **notaciones asintóticas** (Big O, Big Ω, Big Θ), diferenciando el comportamiento de los algoritmos en los casos peor, mejor y promedio.
+2. **Diseñar soluciones algorítmicas óptimas**: Abordar problemas complejos utilizando estrategias como recursividad, divide y vencerás, programación dinámica, y algoritmos voraces, optimizando la eficiencia en cada caso.
 
-- **RA2:** Diseñar e implementar **algoritmos eficientes** utilizando diversas estrategias algorítmicas, como **recursividad**, **divide y vencerás**, **algoritmos voraces**, **programación dinámica**, **backtracking**, y **ramificación y poda**.
+3. **Evaluar la eficiencia algorítmica**: Comparar y medir el rendimiento de diferentes algoritmos a través de pruebas experimentales, utilizando métricas relevantes para determinar la eficiencia y corrección de las soluciones propuestas.
 
-- **RA3:** Aplicar **técnicas avanzadas de optimización algorítmica** para mejorar la **eficiencia** en términos de espacio y tiempo, demostrando su **corrección** mediante el uso de invariantes y la **inducción matemática**.
+4. **Identificar y clasificar problemas computacionales**: Reconocer problemas dentro de las clases P, NP y NP-completos, aplicando técnicas avanzadas para la evaluación y la corrección de algoritmos complejos.
 
-- **RA4:** Resolver **ecuaciones de recurrencia** usando métodos como el **árbol de recursión**, el **Teorema Maestro** y **sustituciones inteligentes** para determinar el tiempo de ejecución de algoritmos recursivos.
+5. **Resolver ecuaciones de recurrencia**: Dominar la resolución de ecuaciones de recurrencia utilizando métodos iterativos, el Teorema Maestro, y otras técnicas para analizar algoritmos recursivos.
 
-- **RA5:** Identificar, clasificar y analizar problemas **P**, **NP**, y **NP-completos**, y proponer soluciones eficientes o aproximadas para problemas difíciles en el ámbito de la **teoría de la complejidad computacional**.
-
-- **RA6:** Evaluar experimentalmente el **rendimiento** de algoritmos implementados, realizando pruebas de eficiencia y comparando los resultados teóricos con los empíricos.
+Estos resultados te prepararán para enfrentar los desafíos del diseño algorítmico en contextos académicos y profesionales, promoviendo una toma de decisiones fundamentada en la eficiencia y efectividad de las soluciones.
 
 ---
 
-Estos resultados de aprendizaje están diseñados para que los estudiantes adquieran una comprensión sólida y profunda sobre el diseño, análisis y optimización de algoritmos, aplicando técnicas teóricas y prácticas para resolver problemas computacionales compl
+Estos resultados de aprendizaje están diseñados para que los estudiantes adquieran una comprensión sólida y profunda sobre el diseño, análisis y optimización de algoritmos, aplicando técnicas teóricas y prácticas para resolver problemas computacionales complejos.
 
 ## Información relevante ⚠️
 
