@@ -92,12 +92,25 @@ Explicación de conceptos básicos en el Análisis y Diseño de Algoritmos
 
 ## Resultados de aprendizaje 📊📈
 
-- Aplica diversas Análisis y Diseño de Algoritmos para desarrollar algoritmos efectivos que
-resuelvan problemas computacionales **(RA1)**.
+## Resultados de aprendizaje 📊📈
 
-- Abstrae y diseña algoritmos haciendo uso de Análisis y Diseño de Algoritmos para la solución de problemas computacionales **(RA2)**.
+Los estudiantes al finalizar el curso serán capaces de:
 
-- Evalúa experimentalmente el rendimiento de algoritmos computacionales implementados mediante diversas Análisis y Diseño de Algoritmos **(RA6)**.
+- **RA1:** Analizar y describir la **complejidad temporal y espacial** de algoritmos aplicando **notaciones asintóticas** (Big O, Big Ω, Big Θ), diferenciando el comportamiento de los algoritmos en los casos peor, mejor y promedio.
+
+- **RA2:** Diseñar e implementar **algoritmos eficientes** utilizando diversas estrategias algorítmicas, como **recursividad**, **divide y vencerás**, **algoritmos voraces**, **programación dinámica**, **backtracking**, y **ramificación y poda**.
+
+- **RA3:** Aplicar **técnicas avanzadas de optimización algorítmica** para mejorar la **eficiencia** en términos de espacio y tiempo, demostrando su **corrección** mediante el uso de invariantes y la **inducción matemática**.
+
+- **RA4:** Resolver **ecuaciones de recurrencia** usando métodos como el **árbol de recursión**, el **Teorema Maestro** y **sustituciones inteligentes** para determinar el tiempo de ejecución de algoritmos recursivos.
+
+- **RA5:** Identificar, clasificar y analizar problemas **P**, **NP**, y **NP-completos**, y proponer soluciones eficientes o aproximadas para problemas difíciles en el ámbito de la **teoría de la complejidad computacional**.
+
+- **RA6:** Evaluar experimentalmente el **rendimiento** de algoritmos implementados, realizando pruebas de eficiencia y comparando los resultados teóricos con los empíricos.
+
+---
+
+Estos resultados de aprendizaje están diseñados para que los estudiantes adquieran una comprensión sólida y profunda sobre el diseño, análisis y optimización de algoritmos, aplicando técnicas teóricas y prácticas para resolver problemas computacionales compl
 
 ## Información relevante ⚠️
 
