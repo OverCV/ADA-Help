@@ -1,6 +1,6 @@
-# <span class='hero-banner'>Técnicas de Programación 👩‍💻💻👨‍💻</span>
+# <span class='hero-banner'>Análisis y Diseño de Algoritmos 👩‍💻💻👨‍💻</span>
 
-<h2>Guía teórico-práctica sobre Técnicas de programación</h2>
+<h2>Guía teórico-práctica sobre Análisis y Diseño de Algoritmos</h2>
 
 ## Delegados 🏗️🧠
 
@@ -42,15 +42,25 @@ class='rounded' >](mailto:luzenith_g@ucaldas.edu.co)
 
 ::::
 
+El concepto de algoritmo es **fundamental** en la ciencia de la computación y su eficiencia es punto central en términos económicos. El análisis y el diseño de algoritmos eficientes es tema fundamental tanto para desarrollar software profesional como para evaluar **diversas soluciones a un problema dado**. Un ingeniero en computacion debe tener un conocimiento de principios básicos para el diseño de algoritmos **eficientes**.
+
 ## Objetivos del curso 🎯
 
-Capacitar a los estudiantes en técnicas de programación que les permitan resolver *problemas* computacionales de manera **eficiente**, mediante la adquisición efectiva, procesamiento y gestión de datos, el diseño de algoritmos robustos utilizando **métodos** como la fuerza bruta, recursión y backtracking.
+El curso tiene como finalidad profundizar en el **análisis y diseño de algoritmos**, centrándose en su **eficiencia** tanto en términos de **tiempo** como de **espacio**. El estudio de algoritmos eficientes es crucial en la computación moderna, ya que no solo impacta en la calidad del software, sino también en los **costos** de recursos computacionales y de tiempo de ejecución.
 
-- Aprender a utilizar diversas técnicas de programación para adquirir, procesar y gestionar datos de manera efectiva en *diferentes contextos*.
+A través del curso, se busca que los estudiantes adquieran las habilidades para analizar, diseñar y optimizar algoritmos en **diferentes contextos**, aplicando técnicas avanzadas y comprendiéndolas desde una perspectiva **teórica** y **práctica**.
 
-- Capacitar en la implementación de **técnicas avanzadas**, como la fuerza bruta, recursión y backtracking, para diseñar y construir algoritmos eficientes que resuelvan *problemas complejos*.
+Los objetivos principales incluyen:
 
-- Comprender técnicas de **búsqueda y ordenamiento**, seleccionando e implementando los métodos más adecuados para cada situación, mejorando así la *eficiencia y efectividad* de los programas desarrollados.
+- **Analizar la complejidad espacial y temporal** de algoritmos aplicando notaciones asintóticas, describiendo el **orden de crecimiento** del tiempo de ejecución en los casos peor, mejor y promedio.
+
+- Escribir y analizar algoritmos utilizando diversas estrategias como *recursividad*, *backtracking*, *divide y vencerás*, *divide y serás vencido*, *algoritmos voraces*, *ramificación y poda*, *programación dinámica*, *algoritmos heurísticos* y *teoría de juegos*.
+
+- **Resolver ecuaciones de recurrencia** mediante métodos iterativos, *árboles de recursión*, *sustitución inteligente*, el *Teorema Maestro* y la *ecuación característica* para determinar el tiempo de ejecución de algoritmos recursivos.
+
+- **Optimizar soluciones algorítmicas** utilizando diferentes estrategias, buscando un equilibrio entre *eficiencia* y *efectividad*.
+
+- Reconocer, clasificar y analizar problemas **P**, **NP** y **NP-completos**, además de aplicar la **corrección** de algoritmos mediante el uso de **invariantes** y **pruebas de escritr**.
 
 <!-- eficiencia VS eficacia VS efectividad -->
 
@@ -64,57 +74,41 @@ Capacitar a los estudiantes en técnicas de programación que les permitan resol
 :link: tema_01
 :link-type: doc
 :class-header: bg-light
-**Tema 01 ☄️**
+**Guía del proyecto ☄️🧮**
 ^^^
-Introducción al Backend
+Introducción al problema de partición con mínima pérdida de información
 :::
 
 :::{grid-item-card}
 :link: unidad_01
 :link-type: doc
 :class-header: bg-light
-**Unidad 01 🔁🌲**
+**Apuntes estudiantiles 📝📖**
 ^^^
-Fundamentos en Estructuración y Manipulación de Datos
-:::
-
-:::{grid-item-card}
-:link: unidad_02
-:link-type: doc
-:class-header: bg-light
-**Unidad 02 ✍️💻**
-^^^
-Técnicas fundamentales de programación
-:::
-
-:::{grid-item-card}
-:link: unidad_03
-:link-type: doc
-:class-header: bg-light
-**Unidad 03 🔍🔢**
-^^^
-Algoritmos de búsqueda y ordenamiento
+Explicación de conceptos básicos en el Análisis y Diseño de Algoritmos
 :::
 
 ::::
 
 ## Resultados de aprendizaje 📊📈
 
-- Aplica diversas técnicas de programación para desarrollar algoritmos efectivos que
+- Aplica diversas Análisis y Diseño de Algoritmos para desarrollar algoritmos efectivos que
 resuelvan problemas computacionales **(RA1)**.
 
-- Abstrae y diseña algoritmos haciendo uso de técnicas de programación para la solución de problemas computacionales **(RA2)**.
+- Abstrae y diseña algoritmos haciendo uso de Análisis y Diseño de Algoritmos para la solución de problemas computacionales **(RA2)**.
 
-- Evalúa experimentalmente el rendimiento de algoritmos computacionales implementados mediante diversas técnicas de programación **(RA6)**.
+- Evalúa experimentalmente el rendimiento de algoritmos computacionales implementados mediante diversas Análisis y Diseño de Algoritmos **(RA6)**.
 
 ## Información relevante ⚠️
 
-### Horarios de clase 🕰️
+### Horarios de monitoría 🕰️
 
-| Día       | Hora          | Lugar  |
-| --------- | ------------- | ------ |
-| Lunes     | 8:00 - 10:00  | Aula X |
-| Miércoles | 10:00 - 12:00 | Aula Y |
+| Día       | Hora             |
+| --------- | ---------------- |
+| Lunes     | PM 04:00 - 06:00 |
+| Martes    | PM 02:00 - 04:00 |
+| Miércoles | PM 02:00 - 06:00 |
+| Jueves    | AM 10:00 - 12:00 |
 
 ## Referencias 🔭📜
 
@@ -127,9 +121,11 @@ Material bibliográfico con fundamentación teórica usada en la comprensión de
 :class-body: text-center
 :class-header: bg-light text-center
 
-```{image} _static/images/books/computer-algorithms.jpg
+```{image} _static/images/books/fourth-edition.jpg
 :height: 300
 ```
+
+[Fourth Edition - Introduction to Algorithms](https://drive.google.com/file/d/1Vswu_-1CRNDaRX9oqb2Ks94dDhZyoA_2/view?usp=sharing)
 
 :::
 
@@ -138,50 +134,19 @@ Material bibliográfico con fundamentación teórica usada en la comprensión de
 :class-body: text-center
 :class-header: bg-light text-center
 
-```{image} _static/images/books/intro-to-the-ada.jpg
+```{image} _static/images/books/third-edition.jpg
 :height: 300
 ```
 
-:::
-
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-
-```{image} _static/images/books/fund-algoritmia.jpg
-:height: 300
-```
+[Third Edition - Introduction to Algorithms](https://drive.google.com/file/d/1u0uvhOC0stoSxNkURugkh9T6sB4Ml4fY/view?usp=sharing)
 
 :::
 
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
+:::::
+<!-- 
+## Inicio del repositorio 🚀
 
-```{image} _static/images/books/intro-a-algoritmos.jpg
-:height: 300
-```
-
-:::
-
-:::{card}
-:margin: 3
-:class-body: text-center
-:class-header: bg-light text-center
-
-```{image} _static/images/books/ds-y-algoritmos.jpg
-:height: 300
-```
-
-:::
-
-::::
-
-1. [Introducción al Backend](./temas/uno/instalar_cpp_tools.md)
-
-
+1. [Introducción al Backend](./temas/uno/instalar_cpp_tools.md) -->
 
 <!-- ```{dropdown} Título del desplegable
 Contenido del desplegable
