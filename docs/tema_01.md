@@ -17,7 +17,7 @@ Cada uno de estos temas será abordado tanto desde un punto de vista teórico co
 
 ## 📖 Vista Previa del Proyecto en PDF
 
-A continuación puedes visualizar el documento completo del proyecto directamente desde esta página. Si por alguna razón no puedes verlo, también tienes la opción de descargarlo más abajo.
+A continuación puedes visualizar el documento guía del proyecto directamente desde esta página. Si por alguna razón no puedes verlo, también tienes la opción de descargarlo más abajo.
 
 <iframe src="../docs/_static/Guía_Proyecto_ADA24B___V1_1_0.pdf" width="100%" height="600px">
     Tu navegador no soporta la vista previa del PDF. 
@@ -31,7 +31,7 @@ A continuación puedes visualizar el documento completo del proyecto directament
 Si no puedes visualizar el PDF embebido, puedes descargar el archivo completo del proyecto aquí:
 
 <!-- [Descargar PDF con los detalles del proyecto](../docs/_static/pdf/Guía_Proyecto_ADA24B___V1_1_0.pdf){:target="_blank"} -->
-[Descargar PDF de las Notas de Clase](../docs/_static/pdf/Guía_Proyecto_ADA24B___V1_1_0.pdf)
+[Descargar PDF Guía del proyecto](../docs/_static/pdf/Guía_Proyecto_ADA24B___V1_1_0.pdf)
 
 ---
 

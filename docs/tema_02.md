@@ -20,7 +20,7 @@ Este recurso incluye los temas abordados en las notas de clase del curso **Anál
 
 Puedes descargar el PDF completo con las notas de clase desde el siguiente enlace:
 
-[Descargar PDF de las Notas de Clase](../docs/_static/pdf/ADA_24A___Notas.pdf)
+[Descargar PDF con Notas de Clase](../docs/_static/pdf/ADA_24A___Notas.pdf)
 
 Además, puedes visualizar ejemplos de código aplicados en Python para problemas algorítmicos complejos dentro de este recurso. Estos ejemplos te ayudarán a implementar soluciones eficientes para problemas reales.
 
