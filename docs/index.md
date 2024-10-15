@@ -80,7 +80,7 @@ Introducción al problema de partición con mínima pérdida de información
 :::
 
 :::{grid-item-card}
-:link: unidad_01
+:link: tema_02
 :link-type: doc
 :class-header: bg-light
 **Apuntes estudiantiles 📝📖**
