@@ -20,7 +20,7 @@ Cada uno de estos temas será abordado tanto desde un punto de vista teórico co
 A continuación puedes visualizar el documento guía del proyecto directamente desde esta página. Si por alguna razón no puedes verlo, también tienes la opción de descargarlo más abajo.
 
 <iframe src="../docs/_static/Guía_Proyecto_ADA24B___V1_1_0.pdf" width="100%" height="600px">
-    Tu navegador no soporta la vista previa del PDF. 
+    Tu navegador no soporta la vista previa del PDF.
     [Haz clic aquí para descargar el PDF.](../docs/_static/Guía_Proyecto_ADA24B___V1_1_0.pdf)
 </iframe>
 
@@ -32,7 +32,6 @@ Si no puedes visualizar el PDF embebido, puedes descargar el archivo completo de
 
 <!-- [Descargar PDF con los detalles del proyecto](../docs/_static/pdf/Guía_Proyecto_ADA24B___V1_1_0.pdf){:target="_blank"} -->
 [Descargar PDF Guía del proyecto](../docs/_static/pdf/Guía_Proyecto_ADA24B___V1_1_0.pdf)
-
 ---
 
 ## 🧠 Ejemplo de Código Python
