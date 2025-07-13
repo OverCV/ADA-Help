@@ -160,5 +160,5 @@ Material bibliográfico con fundamentación teórica usada en la comprensión de
 1. [Introducción al Backend](./temas/uno/instalar_cpp_tools.md) -->
 
 <!-- ```{dropdown} Título del desplegable
-Contenido del desplegable
+Contenido del desplegable.
 ``` -->
