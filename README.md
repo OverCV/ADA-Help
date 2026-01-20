@@ -1,6 +1,7 @@
 # ADA-Help
 
-Repositorio de ayuda para el proyecto de Análisis y Diseño de Algoritmos. Compílalo localmente con `jupyter-book build docs`.
+Repositorio de ayuda para el proyecto de Análisis y Diseño de Algoritmos. Compílalo localmente con `jupyter-book build docs` en tu editor favorito.
 
 **Introducción al curso:**
+
 [Análisis y Diseño de Algoritmos](https://overcv.github.io/ADA-Help/)
